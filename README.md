@@ -1,8 +1,9 @@
+
 # 中文界面 · 英文名称 (Chinese UI English Names)
 
 适用版本：CK3 1.19.x
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/f1bf0c64-63b2-4a6f-9a14-8e7989479b17" />
-
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/ef2ffd4f-6881-4b2c-810b-f11ca3843d57" />
 
 ## 简介
 仅本地化 Mod。界面保持简体中文，但人物名、家族名、地名、头衔、文化、宗教/信仰、政体等**显示为英文**。
